@@ -9,18 +9,32 @@ Atualmente atuo no desenvolvimento de aplicações web, integrações de sistema
 Tenho grande interesse por arquitetura de software, desenvolvimento Full Stack, boas práticas de engenharia e sistemas escaláveis. Embora minha experiência profissional seja concentrada no ecossistema .NET, também estudo Java continuamente e busco oportunidades para expandir minha atuação em diferentes tecnologias e desafios.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <a href="www.linkedin.com/in/gabryel-lourenço-maciel-de-morais-946806232">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:SEU_EMAIL">
+    <a href="mailto:gabryelmorais187@gmail.com">
         <img 
             alt="Email" 
             title="Entre em contato"
             src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=for-the-badge&logo=mail&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/Gabryel25770?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Gabryel25770?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Gabryel25770?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Gabryel25770?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
