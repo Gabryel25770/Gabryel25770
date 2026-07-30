@@ -86,12 +86,12 @@ Tenho grande interesse por arquitetura de software, desenvolvimento Full Stack, 
 <p>
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Gabryel25770&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel25770&theme=tokyonight&layout=compact"
   />
 </p>
 
