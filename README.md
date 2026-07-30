@@ -9,7 +9,7 @@ Atualmente atuo no desenvolvimento de aplicações web, integrações de sistema
 Tenho grande interesse por arquitetura de software, desenvolvimento Full Stack, boas práticas de engenharia e sistemas escaláveis. Embora minha experiência profissional seja concentrada no ecossistema .NET, também estudo Java continuamente e busco oportunidades para expandir minha atuação em diferentes tecnologias e desafios.
 
 <p align="left">
-    <a href="www.linkedin.com/in/gabryel-lourenço-maciel-de-morais-946806232">
+    <a href="https://www.linkedin.com/in/gabryel-lourenço-maciel-de-morais-946806232">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn"
