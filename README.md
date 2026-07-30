@@ -83,18 +83,13 @@ Tenho grande interesse por arquitetura de software, desenvolvimento Full Stack, 
 
 ## 📈 Estatísticas
 
-<p>
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Gabryel25770&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel25770&theme=tokyonight&layout=compact"
-  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabryel25770&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabryel25770&theme=tokyo-night" />
+</p>
 ---
 
 ## 🎯 Áreas de Interesse
